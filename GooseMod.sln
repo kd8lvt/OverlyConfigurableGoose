@@ -7,7 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooseModdingAPI", "GooseMod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMod", "DefaultMod\DefaultMod.csproj", "{B28CF25D-843C-45B6-AEF1-0A117F1852F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverlyConfigurableGoose", "OverlyConfigurableGoose\OverlyConfigurableGoose.csproj", "{80C87F40-7B85-4D09-9B32-C6149DBD41F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverlyConfigurableGoose", "OverlyConfigurableGoose\OverlyConfigurableGoose.csproj", "{80C87F40-7B85-4D09-9B32-C6149DBD41F2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F0849C98-E0DF-47A4-944E-377EFAC303F1} = {F0849C98-E0DF-47A4-944E-377EFAC303F1}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
