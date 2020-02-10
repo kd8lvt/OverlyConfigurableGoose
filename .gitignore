@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+DefaultMod/*
+GooseModdingAPI/*
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
