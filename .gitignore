@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+[Dd]efault[Mm]od/*
+[Gg]oose[Mm]odding[Aa][Pp][Ii]/*
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
